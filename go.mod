@@ -1,4 +1,4 @@
-module github.com/uber/athenadriver
+module github.com/Sly1024/athenadriver
 
 go 1.13
 
